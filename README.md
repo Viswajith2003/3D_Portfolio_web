@@ -1,6 +1,6 @@
 # 3d-portfolio
 
-Personal Portfolio website designed using ThreeJS
+This is my Personal Portfolio website designed using ThreeJS
 
 Install Dependencies
 
@@ -14,5 +14,5 @@ Start the development server
 npm run dev
 ```
 
-Preview: https://chimerical-sawine-e5d69e.netlify.app/
+Preview: comming soon
 # 3D_Portfolio_web
